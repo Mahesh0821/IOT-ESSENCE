@@ -940,4 +940,5 @@ font-size: larger;
   #gallary{
     height: 110vh;
     background: black;
+    overflow:hidden;
   }
